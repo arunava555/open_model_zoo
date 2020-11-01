@@ -12,7 +12,7 @@ We are releasing two trained CNN models to detect the presence of fourteen disea
 
 ## **Dataset**
 
-The experiments have been performed using the publicly available CheXpert dataset [4]. The dataset is freely available for non-commercial and research purposes.The _ **download link and the License of the public dataset** _ can be found at: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
+The experiments have been performed using the publicly available CheXpert dataset [4]. The dataset is freely available for non-commercial and research purposes.The **download link and the License of the public dataset**  can be found at: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
 
 [4] Irvin, Jeremy, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund et al. &quot;Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison.&quot; In _Proceedings of the AAAI Conference on Artificial Intelligence_, vol. 33, pp. 590-597. 2019.
 
