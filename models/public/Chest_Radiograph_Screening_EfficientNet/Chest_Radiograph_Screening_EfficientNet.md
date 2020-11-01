@@ -35,7 +35,7 @@ corresponding sub-directories named &quot;baseline\_DenseNet121&quot; and &quot;
 | --- | --- |
 | Source Framework | Pytorch (converted to ONNX) |
 
-|
+
  | DenseNet-121 | DenseNet-EfficientNet |
 | --- | --- | --- |
 | GFLOPS\* | 5.88 | 6.85 |
