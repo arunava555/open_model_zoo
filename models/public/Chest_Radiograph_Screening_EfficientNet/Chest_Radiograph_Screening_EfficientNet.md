@@ -36,9 +36,9 @@ corresponding sub-directories named &quot;baseline\_DenseNet121&quot; and &quot;
 | Source Framework | Pytorch (converted to ONNX) |
 
 
- | DenseNet-121 | DenseNet-EfficientNet |
+|     | DenseNet-121 | DenseNet-EfficientNet |
 | --- | --- | --- |
-| GFLOPS\* | 5.88 | 6.85 |
+| GFLOPs | 5.88 | 6.85 |
 | Mparams | 6.97 | 7.13 |
 | Avg. AUROC | 0.7477 | 0.8010 |
 
