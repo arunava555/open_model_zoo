@@ -1,4 +1,4 @@
-##**Abnormality Detection in Chest Radiographs**
+## **Abnormality Detection in Chest Radiographs**
 
 ## **Use Case and High-Level Description**
 
